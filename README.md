@@ -1,7 +1,7 @@
 # Corona Notifier 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadchen/CoronaNotifier)
-![Twitter](https://img.shields.io/twitter/follow/ahmadrudho14?style=social)
+![Twitter](https://img.shields.io/twitter/follow/teman_bahagia?style=social)
 
 Corona Notifier is a Whatsapp automatic notification robot using MQTT & nodeJS. The Corona Service will collect latest data about the COVID-19 indonesian case from [indonesia-covid-19-api](https://indonesia-covid-19.mathdro.id/api) by [mathdroid](https://github.com/mathdroid/indonesia-covid-19-api)
 
