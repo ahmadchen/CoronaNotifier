@@ -1,0 +1,31 @@
+{
+  "name": "coronanotifier",
+  "version": "1.0.0",
+  "description": "Notification Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "coronaservice": "node CoronaService\\corona.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yogs",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.28",
+    "mqtt": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "node-html-to-image": "^1.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.2.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0"
+  }
+}
